@@ -18,3 +18,11 @@ Environment Used
 •	Keras, Tensorflow, CUDA, CUDNN
 •	12 GB DDR3 RAM
 •	NVDIA 4 GB GPU
+
+
+Files:
+complaints.py --- Flask App
+gov.py  --- Model Taring and Validation
+model_gov4.h5 --- Exported Trained Model
+tokenizer2.pkl --- Text to sequence generator
+word_index2.pxl --- word index catalog
