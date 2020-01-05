@@ -26,3 +26,4 @@ gov.py  --- Model Taring and Validation
 model_gov4.h5 --- Exported Trained Model
 tokenizer2.pkl --- Text to sequence generator
 word_index2.pxl --- word index catalog
+dataset.7z --- Datasets used for Application development
