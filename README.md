@@ -27,3 +27,10 @@ model_gov4.h5 --- Exported Trained Model
 tokenizer2.pkl --- Text to sequence generator
 word_index2.pxl --- word index catalog
 dataset.7z --- Datasets used for Application development
+
+
+Model File (Not able to upload a file as size is greater than 25MB):
+
+https://drive.google.com/open?id=1m5YSTm3JM6WqvAGgnz0fnH8US0OomzJW
+
+
