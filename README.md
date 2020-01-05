@@ -1,2 +1,2 @@
 # DARPG
-PREDICTIVE MODEL SOLUTION FOR ROUTING COMPLAINTS TO DEPARTMENTS
+Predictive model solution for routing complaints to departments
